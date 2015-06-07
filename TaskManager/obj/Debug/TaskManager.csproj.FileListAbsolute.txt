@@ -1,0 +1,6 @@
+C:\Users\Stoyan\Documents\Visual Studio 2012\Projects\Exercices\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+C:\Users\Stoyan\Documents\Visual Studio 2012\Projects\Exercices\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+C:\Users\Stoyan\Documents\Visual Studio 2012\Projects\Exercices\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2012\Projects\Exercices\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+C:\Users\Stoyan\Documents\Visual Studio 2012\Projects\Exercices\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2012\Projects\Exercices\TaskManager\TaskManager\obj\Debug\TaskManager.csprojResolveAssemblyReference.cache
